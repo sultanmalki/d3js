@@ -1,0 +1,247 @@
+﻿name,code,pop
+Angola,AGO,15
+Yemen,YEM,15.4
+Guinea,GIN,16.7
+Niger,NER,17.8
+Benin,BEN,18
+Myanmar,MMR,18.4
+Ethiopia,ETH,18.6
+Togo,TGO,19.3
+Mali,MLI,19.5
+Cameroon,CMR,19.7
+Mozambique,MOZ,19.7
+Zambia,ZMB,19.8
+Algeria,DZA,19.9
+Uganda,UGA,20
+Nigeria,NGA,20.1
+Bangladesh,BGD,20.2
+Lao People's Democratic Republic,LAO,20.2
+Burkina Faso,BFA,20.5
+Cote dIvoire,CIV,21
+Zimbabwe,ZWE,21.9
+Ghana,GHA,22.3
+Madagascar,MDG,22.5
+Nepal,NPL,22.5
+Cambodia,KHM,22.8
+Honduras,HND,22.8
+Botswana,BWA,22.9
+Malawi,MWI,22.9
+Senegal,SEN,23.3
+Bolivia (Plurinational State of),BOL,23.4
+Rwanda,RWA,23.9
+Tajikistan,TJK,23.9
+Guatemala,GTM,24.1
+Namibia,NAM,24.3
+Pakistan,PAK,24.4
+Kyrgyzstan,KGZ,24.5
+Trinidad and Tobago,TTO,24.8
+El Salvador,SLV,25
+Dominican Republic,DOM,25.1
+Egypt,EGY,25.1
+Lebanon,LBN,25.1
+Sri Lanka,LKA,25.1
+Ecuador,ECU,25.4
+United Republic of Tanzania,TZA,25.6
+Cabo Verde,CPV,25.7
+Paraguay,PRY,26.4
+Indonesia,IDN,27.1
+Uzbekistan,UZB,27.4
+Kenya,KEN,27.5
+Albania,ALB,28
+Panama,PAN,28
+Brunei Darussalam,BRN,28.2
+Jordan,JOR,28.3
+Azerbaijan,AZE,28.4
+Kazakhstan,KAZ,28.6
+Bahrain,BHR,28.8
+Morocco,MAR,29.3
+Oman,OMN,29.4
+Bosnia and Herzegovina,BIH,29.6
+Jamaica,JAM,29.6
+Argentina,ARG,29.8
+Kuwait,KWT,29.9
+Tunisia,TUN,30.7
+Peru,PER,31.2
+Armenia,ARM,31.4
+Qatar,QAT,31.5
+Colombia,COL,31.7
+Saudi Arabia,SAU,31.8
+Uruguay,URY,32.2
+Republic of Moldova,MDA,32.3
+Georgia,GEO,32.4
+Belarus,BLR,32.6
+South Africa,ZAF,32.7
+Iran (Islamic Republic of),IRN,32.9
+North Macedonia,MKD,34.1
+Brazil,BRA,34.2
+Mongolia,MNG,34.2
+Costa Rica,CRI,34.5
+Mexico,MEX,34.5
+Serbia,SRB,35
+Chile,CHL,35.1
+Mauritius,MUS,35.2
+Philippines,PHL,35.3
+Montenegro,MNE,35.4
+Romania,ROU,35.6
+Ukraine,UKR,35.6
+Greece,GRC,36.3
+India,IND,36.4
+Russian Federation,RUS,36.6
+Viet Nam,VNM,37
+Thailand,THA,37.2
+Croatia,HRV,37.3
+Turkey,TUR,38.3
+Lithuania,LTU,39.9
+Poland,POL,39.9
+Latvia,LVA,40
+Slovakia,SVK,40.2
+Malaysia,MYS,41.9
+Bulgaria,BGR,42.4
+Hungary,HUN,42.7
+United Arab Emirates,ARE,43
+Slovenia,SVN,44.1
+Portugal,PRT,44.2
+Spain,ESP,45.4
+Italy,ITA,45.7
+Cyprus,CYP,46.7
+Malta,MLT,47.1
+New Zealand,NZL,47.5
+Australia,AUS,48.3
+Czech Republic,CZE,49
+Luxembourg,LUX,49
+Belgium,BEL,49.2
+Estonia,EST,49.9
+Norway,NOR,50.4
+Ireland,IRL,50.7
+Austria,AUT,50.9
+Iceland,ISL,51.8
+Canada,CAN,53.1
+Israel,ISR,53.4
+Hong Kong,HKG,53.7
+Japan,JPN,54.5
+China,CHN,54.8
+France,FRA,55
+Denmark,DNK,57.3
+Germany,DEU,57.3
+Singapore,SGP,57.8
+Finland,FIN,58.4
+Netherlands,NLD,58.6
+Republic of Korea,KOR,59.3
+United Kingdom,GBR,59.8
+United States of America,USA,61.3
+Sweden,SWE,63.1
+Switzerland,CHE,65.5
+Afghanistan,AFG,#N/A
+Åland Islands,ALA,#N/A
+American Samoa,ASM,#N/A
+Andorra,AND,#N/A
+Anguilla,AIA,#N/A
+Antarctica,ATA,#N/A
+Antigua and Barbuda,ATG,#N/A
+Aruba,ABW,#N/A
+Bahamas,BHS,#N/A
+Barbados,BRB,#N/A
+Belize,BLZ,#N/A
+Bermuda,BMU,#N/A
+Bhutan,BTN,#N/A
+Bouvet Island,BVT,#N/A
+British Indian Ocean Territory,IOT,#N/A
+British Virgin Islands,VGB,#N/A
+Burundi,BDI,#N/A
+Cayman Islands,CYM,#N/A
+Central African Republic,CAF,#N/A
+Chad,TCD,#N/A
+Christmas Island,CXR,#N/A
+Cocos (Keeling) Islands,CCK,#N/A
+Comoros,COM,#N/A
+Congo,COG,#N/A
+Cook Islands,COK,#N/A
+Cuba,CUB,#N/A
+Democratic Republic of the Congo,COD,#N/A
+Djibouti,DJI,#N/A
+Dominica,DMA,#N/A
+Equatorial Guinea,GNQ,#N/A
+Eritrea,ERI,#N/A
+Falkland Islands (Malvinas),FLK,#N/A
+Faroe Islands,FRO,#N/A
+Fiji,FJI,#N/A
+French Guiana,GUF,#N/A
+French Polynesia,PYF,#N/A
+French Southern and Antarctic Lands,ATF,#N/A
+Gabon,GAB,#N/A
+Gambia,GMB,#N/A
+Gibraltar,GIB,#N/A
+Greenland,GRL,#N/A
+Grenada,GRD,#N/A
+Guadeloupe,GLP,#N/A
+Guam,GUM,#N/A
+Guernsey,GGY,#N/A
+Guinea-Bissau,GNB,#N/A
+Guyana,GUY,#N/A
+Haiti,HTI,#N/A
+Heard Island and McDonald Islands,HMD,#N/A
+Holy See (Vatican City),VAT,#N/A
+Iraq,IRQ,#N/A
+Isle of Man,IMN,#N/A
+Jersey,JEY,#N/A
+Kiribati,KIR,#N/A
+Korea, Democratic People's Republic of,#N/A
+Lesotho,LSO,#N/A
+Liberia,LBR,#N/A
+Libyan Arab Jamahiriya,LBY,#N/A
+Liechtenstein,LIE,#N/A
+Macau,MAC,#N/A
+Maldives,MDV,#N/A
+Marshall Islands,MHL,#N/A
+Martinique,MTQ,#N/A
+Mauritania,MRT,#N/A
+Mayotte,MYT,#N/A
+Micronesia, Federated States of,#N/A
+Monaco,MCO,#N/A
+Montserrat,MSR,#N/A
+Nauru,NRU,#N/A
+Netherlands Antilles,ANT,#N/A
+New Caledonia,NCL,#N/A
+Nicaragua,NIC,#N/A
+Niue,NIU,#N/A
+Norfolk Island,NFK,#N/A
+Northern Mariana Islands,MNP,#N/A
+Palau,PLW,#N/A
+Palestine,PSE,#N/A
+Papua New Guinea,PNG,#N/A
+Pitcairn Islands,PCN,#N/A
+Puerto Rico,PRI,#N/A
+Reunion,REU,#N/A
+Saint Barthelemy,BLM,#N/A
+Saint Helena,SHN,#N/A
+Saint Kitts and Nevis,KNA,#N/A
+Saint Lucia,LCA,#N/A
+Saint Martin,MAF,#N/A
+Saint Pierre and Miquelon,SPM,#N/A
+Saint Vincent and the Grenadines,VCT,#N/A
+Samoa,WSM,#N/A
+San Marino,SMR,#N/A
+Sao Tome and Principe,STP,#N/A
+Seychelles,SYC,#N/A
+Sierra Leone,SLE,#N/A
+Solomon Islands,SLB,#N/A
+Somalia,SOM,#N/A
+South Georgia South Sandwich Islands,SGS,#N/A
+Sudan,SDN,#N/A
+Suriname,SUR,#N/A
+Svalbard,SJM,#N/A
+Swaziland,SWZ,#N/A
+Syrian Arab Republic,SYR,#N/A
+Taiwan,TWN,#N/A
+Timor-Leste,TLS,#N/A
+Tokelau,TKL,#N/A
+Tonga,TON,#N/A
+Turkmenistan,TKM,#N/A
+Turks and Caicos Islands,TCA,#N/A
+Tuvalu,TUV,#N/A
+United States Minor Outlying Islands,UMI,#N/A
+United States Virgin Islands,VIR,#N/A
+Vanuatu,VUT,#N/A
+Venezuela,VEN,#N/A
+Wallis and Futuna Islands,WLF,#N/A
+Western Sahara,ESH,#N/A
